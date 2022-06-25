@@ -1,9 +1,17 @@
 # __VOIS_web_automation_task
 
 ## Environment
-* Java 17 OpenJDK
-* Selenium 4
+* Using Java 17 OpenJDK
+* Using Selenium 4
+* Using IntelliJ IDEA IDE to develop the solution
+*	Using TestNG as a Test Framework to create and execute the script
+*	Using Maven to build and manage the project
+*	Using Chrome driver to run the script
+*	Using Data property file to save configuration data used in the script such as URL
+*	Using Page Object Model as a Design Pattern 
 
+## Note
+* please change the email from property file used in registration
 
 ## Classes 
 * Creating a Configuration_Data_Reader class to read values from the property file .
